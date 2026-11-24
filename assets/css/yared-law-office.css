@@ -4171,7 +4171,7 @@ blockquote {
 
 .hero {
   margin-bottom: var(--desktop-space);
-  background-image: linear-gradient(#0000004d, #0000004d), url("../images/scales-of-justice-hero.jpg");
+  background-image: linear-gradient(#0000004d, #0000004d), url("../images/scales-of-justice-hero.webp");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5032,7 +5032,7 @@ blockquote {
 
   .hero {
     margin-bottom: var(--tablet-space);
-    background-image: linear-gradient(#0000004d, #0000004d), url("../images/scales-of-justice-hero.jpg");
+    background-image: linear-gradient(#0000004d, #0000004d), url("../images/scales-of-justice-hero.webp");
     background-size: auto, cover;
   }
 
